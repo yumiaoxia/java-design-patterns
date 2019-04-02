@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="java-design-patterns" external.linked.project.path="F:/ideaProject/java-design-patterns" external.root.project.path="F:/ideaProject/java-design-patterns" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://F:/ideaProject/java-design-patterns">
+      <excludeFolder url="file://F:/ideaProject/java-design-patterns/.gradle" />
+      <excludeFolder url="file://F:/ideaProject/java-design-patterns/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

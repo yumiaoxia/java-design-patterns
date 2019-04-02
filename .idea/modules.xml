@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Facade-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/Facade-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapter-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/adapter-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.itsherman.abstract-factrory-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/com.itsherman.abstract-factrory-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.itsherman.abstract-factrory-pattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.itsherman.abstract-factrory-pattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.itsherman.simple-factory-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/com.itsherman.simple-factory-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.itsherman.simple-factory-pattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.itsherman.simple-factory-pattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/command-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/command-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composite-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/composite-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/decorator-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/decorator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/factory-method-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/factory-method-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iterator-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/iterator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-design-patterns-master.iml" filepath="$PROJECT_DIR$/.idea/modules/java-design-patterns-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/observer-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/observer-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proxy-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/proxy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/strategy-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/strategy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/template-method-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/template-method-pattern.iml" />
+    </modules>
+  </component>
+</project>

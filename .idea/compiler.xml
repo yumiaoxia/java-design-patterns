@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.itsherman.abstract-factrory-pattern.main" target="1.8" />
+      <module name="com.itsherman.abstract-factrory-pattern.test" target="1.8" />
+      <module name="com.itsherman.simple-factory-pattern.main" target="1.8" />
+      <module name="com.itsherman.simple-factory-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.adapter-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.adapter-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.command-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.command-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.composite-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.composite-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.decorator-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.decorator-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.Facade-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.Facade-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.factory-method-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.factory-method-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.iterator-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.iterator-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.observer-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.observer-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.proxy-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.proxy-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.singleton-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.singleton-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.state-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.state-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.strategy-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.strategy-pattern.test" target="1.8" />
+      <module name="java-disign-patterns.template-method-pattern.main" target="1.8" />
+      <module name="java-disign-patterns.template-method-pattern.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
